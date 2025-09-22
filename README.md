@@ -17,18 +17,12 @@ A creative website project featuring custom design, media integration, and inter
 
 my-second-website/
 │
-├── index.html
-├── style.css
-├── script.js
-├── images/
-│   ├── p1.jpg
-│   ├── p2.jpg
-│   ├── p4.jpg
-│   ├── p5.jpg
-│   ├── pou1.jpg
-│   ├── pou1-modified.png
-│   └── pou2.jpg
-└── README.md
+├─ images/        # all your images are here
+├─ LICENSE        # open source license
+├─ README.md      # project documentation
+├─ index.html     # main HTML page
+├─ script.js      # JavaScript file
+└─ styl.css       # CSS Styling file
 
 ---
 
